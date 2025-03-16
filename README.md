@@ -6,4 +6,5 @@ My thesis paper is available as a pdf in this repository, and also available thr
 
 [OSU Knowledge Bank Listing](https://kb.osu.edu/items/45fe76aa-2d33-46dd-92e4-eadac6306526)
 
+![Transfer Function](./figs/transfer_function_w_bar.png)
 ![Error](./figs/error.png)
