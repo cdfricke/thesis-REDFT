@@ -1,0 +1,3 @@
+[submodule "firmware-rfsoc4x2"]
+	path = firmware-rfsoc4x2
+	url = https://github.com/cdfricke/firmware-rfsoc4x2
