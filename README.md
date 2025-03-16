@@ -8,4 +8,5 @@ My thesis paper is available as a pdf in this repository, and also available thr
 
 ![Transfer Function](./figs/transfer_function_w_bar.png)
 ![Block Diagram](./figs/bd_goertzel.png)
+![Frequency Response](./figs/freq_error.png) ![Frequency Response Zoom](./figs/freq_error_zoom.png)
 ![Error](./figs/error.png)
