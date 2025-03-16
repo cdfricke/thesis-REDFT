@@ -1,5 +1,5 @@
-# Resource-Efficient Discrete Fourier Transform via the Goertzel Algorithm for Continuous Wave Detection with FPGAs
-by Connor Fricke
+# _Resource-Efficient Discrete Fourier Transform via the Goertzel Algorithm for Continuous Wave Detection with FPGAs_
+### by Connor Fricke
 ---
 
 My thesis paper is available as a pdf in this repository, and also available through the OSU Knowledge Bank:
