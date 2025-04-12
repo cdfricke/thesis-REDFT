@@ -1,4 +1,4 @@
-# _Resource-Efficient Discrete Fourier Transform via the Goertzel Algorithm for Continuous Wave Detection with FPGAs_
+# _Resource-Efficient Discrete Fourier Transform (REDFT) via the Goertzel Algorithm for Continuous Wave Detection with FPGAs_
 ### by Connor Fricke
 ---
 
